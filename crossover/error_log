@@ -1,0 +1,17 @@
+[19-May-2018 10:45:20 Etc/GMT] PHP Notice:  Undefined index: r in /home/cherrqge/public_html/work2/score.php on line 3
+[19-May-2018 17:49:45 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function ctyle_alpha() in /home/cherrqge/public_html/work2/score.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cherrqge/public_html/work2/score.php on line 4
+[19-May-2018 17:50:47 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function ctyle_alpha() in /home/cherrqge/public_html/work2/score.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cherrqge/public_html/work2/score.php on line 4
+[19-May-2018 17:51:31 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function ctyle_alpha() in /home/cherrqge/public_html/work2/score.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cherrqge/public_html/work2/score.php on line 4
+[13-Jun-2018 14:21:17 Etc/GMT] PHP Notice:  Undefined index: q in /home/cherrqge/public_html/work/crossover/score.php on line 2
+[13-Jun-2018 14:21:17 Etc/GMT] PHP Notice:  Undefined index: r in /home/cherrqge/public_html/work/crossover/score.php on line 3
+[12-Jul-2018 12:03:07 Etc/GMT] PHP Notice:  Undefined index: q in /home/cherrqge/public_html/work/crossover/score.php on line 2
+[12-Jul-2018 12:03:07 Etc/GMT] PHP Notice:  Undefined index: r in /home/cherrqge/public_html/work/crossover/score.php on line 3

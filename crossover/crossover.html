@@ -1,0 +1,37 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>Cross over</title>
+
+<style>
+#can{
+	border:1px solid red;
+	background:white;
+}
+body{
+	margin-right:10;
+}
+table ,tr,td,th{
+	border:1px solid black;
+	border-collapse:collapse;
+
+}
+tr,td{
+	padding:10px;
+}
+</style>
+</head>
+
+<body>
+<canvas id="can" style="z-index:1"></canvas>
+<br>
+<button type="button" id='lol' style="z-index:2;position:absolute; top:200; left:200;display:none;" onclick=location.reload();>Play Again!</button>
+<p align="top">Can you Beat them!</p>
+<p>Top 3 Scorer</p>
+<p style="float:right;">Use Arrow keys to move Left,Right,Up,Down.</p>
+<table id='dataTable'></table>
+
+<script src="game1.js"></script>
+<!--Copyright  Cherryblog.in--> 
+</body>
+</html>
