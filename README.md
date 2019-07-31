@@ -9,4 +9,4 @@ It is a simple animation created using javascript<br>
 <a href="https://cherryblog.in/canvas_stuff/google_bike">Demo</a>
 ## infinite_circles
 A cool circles animation<br>
-<a href="https://cherryblog.in/canvas_stuff/infinite_cicles">Demo</a>
+<a href="https://cherryblog.in/canvas_stuff/infinite_circles">Demo</a>
